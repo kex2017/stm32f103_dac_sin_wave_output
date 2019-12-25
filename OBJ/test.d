@@ -1,0 +1,14 @@
+..\obj\test.o: test.c
+..\obj\test.o: ..\SYSTEM\sys\sys.h
+..\obj\test.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\obj\test.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\obj\test.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\obj\test.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\obj\test.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\obj\test.o: ..\SYSTEM\usart\usart.h
+..\obj\test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\test.o: ..\SYSTEM\delay\delay.h
+..\obj\test.o: ..\HARDWARE\KEY\key.h
+..\obj\test.o: ..\HARDWARE\LED\led.h
+..\obj\test.o: ..\HARDWARE\WAVE\STM32_WaveOutput.h
+..\obj\test.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

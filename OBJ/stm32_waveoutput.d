@@ -1,0 +1,12 @@
+..\obj\stm32_waveoutput.o: ..\HARDWARE\WAVE\STM32_WaveOutput.c
+..\obj\stm32_waveoutput.o: ..\HARDWARE\WAVE\STM32_WaveOutput.h
+..\obj\stm32_waveoutput.o: ..\SYSTEM\sys\sys.h
+..\obj\stm32_waveoutput.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\obj\stm32_waveoutput.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\obj\stm32_waveoutput.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\obj\stm32_waveoutput.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\obj\stm32_waveoutput.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\obj\stm32_waveoutput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\stm32_waveoutput.o: ..\SYSTEM\delay\delay.h
+..\obj\stm32_waveoutput.o: ..\SYSTEM\usart\usart.h
+..\obj\stm32_waveoutput.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
